@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Alice Wilson",
+        "street": "1 Murtle Street",
+        "town": "Cardiff",
+        "company": "Big Boxed & Co",
+        "yearsOfExperience": 10
+    },
+    {
+        "name": "Betty Allen",
+        "street": "27 St. Gregory Avenue",
+        "town": "Bristol",
+        "company": "Flower Pots for You",
+        "yearsOfExperience": 7
+    },
+    {
+        "name": "Carol Mulligan",
+        "street": "15a Upper Kings Road",
+        "town": "Barnet",
+        "company": "Balloon Flight for Beginners",
+        "yearsOfExperience": 5
+    },
+    {
+        "name": "Denise Jenkins",
+        "street": "The Warren Pollock Gardens",
+        "town": "Oxford",
+        "company": "Stronger Real Ales Ltd",
+        "yearsOfExperience": 15
+    },
+    {
+        "name": "Elise LaPlant",
+        "street": "4 Crimson Fields",
+        "town": "Northampton",
+        "company": "Broken Biscuits Factory",
+        "yearsOfExperience": 3
+    },
+    {
+        "name": "Fedora Fedorus",
+        "street": "100 Little Cotton Close",
+        "town": "Newbury",
+        "company": "Rolling Dice Company",
+        "yearsOfExperience": 1
+    }
+]
